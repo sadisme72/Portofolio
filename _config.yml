@@ -1,2 +1,4 @@
 name: Rama, rz0r
 markdown: kramdown
+
+theme: jekyll-theme-cayman
